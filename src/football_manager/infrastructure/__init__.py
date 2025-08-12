@@ -1,0 +1,1 @@
+"""Infrastructure Layer - data access and external services"""
